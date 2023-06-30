@@ -1,2 +1,1 @@
-# Exile
-abandoned 2019 League of Legends project
+# Abandoned (2019) League of Legends scripting project
